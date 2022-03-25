@@ -31,9 +31,8 @@
 *.ogg filter=lfs diff=lfs merge=lfs text
 
 #Video
-*.mp4 filter=lfs diff=lfs merge=lfs text
+# MP4 DISSABLED
 *.mov filter=lfs diff=lfs merge=lfs text
-videos/Rick roll.mp4 -filter=lfs -diff=lfs -merge=lfs -text
 
 #3D Object
 *.FBX filter=lfs diff=lfs merge=lfs text
