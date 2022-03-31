@@ -1,1 +1,30 @@
-* {background-color: red;}
+h1 {
+  background-color: red;
+color:blue;
+}
+h2{
+  background-color: red;
+color:blue;
+}
+h3{
+  background-color: red;
+color:blue;
+}
+h4{
+  background-color: red;
+color:blue;
+}
+h5{
+  background-color: red;
+color:blue;
+}
+h6{
+  background-color: red;
+color:blue;
+}
+p {
+  color:blue;
+}
+iframe {
+  background-color:grey;
+}
