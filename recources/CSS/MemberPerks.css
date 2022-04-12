@@ -1,3 +1,3 @@
-table {
-  border-color: grey
-};
+table, td {
+  border: 1px solid grey;
+}
